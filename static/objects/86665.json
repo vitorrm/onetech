@@ -1,0 +1,1 @@
+{"id":"86665","name":"Apfel Sapling","transitionsToward":[{"targetID":"86664","newTargetID":"86665","decay":"2h"}],"transitionsAway":[],"transitionsTimed":[{"targetID":"86665","newTargetID":"86668","decay":"2h"}],"depth":0,"mapChance":1,"biomes":[0]}

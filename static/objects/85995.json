@@ -1,0 +1,1 @@
+{"id":"85995","name":"The Apocalypse -  just coins 12","transitionsToward":[{"targetID":"85994","newActorID":"771","newTargetID":"85995","hand":true}],"transitionsAway":[{"targetID":"85995","newActorID":"70002","newTargetID":"85996","hand":true}],"transitionsTimed":[],"techTree":[{"id":"85994","nodes":null}]}

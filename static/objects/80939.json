@@ -1,0 +1,1 @@
+{"id":"80939","name":"Bald Cypress Tree  - hive","transitionsToward":[{"actorID":"80942","targetID":"530","newTargetID":"80939"}],"transitionsAway":[{"targetID":"80939","newActorID":"80941","newTargetID":"530","hand":true}],"transitionsTimed":[],"depth":0,"mapChance":0.5,"biomes":[1]}

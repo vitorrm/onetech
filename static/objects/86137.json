@@ -1,0 +1,1 @@
+{"id":"86137","name":"Apfel Tree","transitionsToward":[{"targetID":"86138","newTargetID":"86137","decay":"1h"}],"transitionsAway":[],"transitionsTimed":[{"targetID":"86137","newTargetID":"86667","decay":"1h"}],"depth":3,"techTree":[{"decay":"1h"},{"id":"86138","nodes":[{"decay":"1h"},{"id":"86668","nodes":[{"decay":"2h"},{"id":"86665","nodes":null}]}]}]}

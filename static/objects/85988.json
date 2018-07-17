@@ -1,0 +1,1 @@
+{"id":"85988","name":"Dead Tree  - hops fruit","transitionsToward":[{"targetID":"760","newTargetID":"85988","decay":"5h"}],"transitionsAway":[{"targetID":"85988","newActorID":"80903","newTargetID":"85989","hand":true}],"transitionsTimed":[{"targetID":"85988","newTargetID":"760","decay":"1h"}],"depth":1,"techTree":[{"decay":"5h"},{"id":"760","nodes":null}]}

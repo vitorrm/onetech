@@ -1,0 +1,1 @@
+{"id":"86666","name":"Poplar Sapling","transitionsToward":[{"actorID":"66","targetID":"624","newTargetID":"86666"}],"transitionsAway":[],"transitionsTimed":[{"targetID":"86666","newTargetID":"45","decay":"4h"}],"depth":0,"mapChance":1,"biomes":[0]}

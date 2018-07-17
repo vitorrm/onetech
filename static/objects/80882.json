@@ -1,0 +1,1 @@
+{"id":"80882","name":"Copper Ore","transitionsToward":[{"actorID":"80979","newActorID":"239","newTargetID":"80882"}],"transitionsAway":[{"actorID":"239","targetID":"80882","newActorID":"80979"}],"transitionsTimed":[],"depth":0,"mapChance":1,"biomes":[3],"size":1}

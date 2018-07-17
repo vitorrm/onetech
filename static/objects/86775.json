@@ -1,0 +1,1 @@
+{"id":"86775","name":"Silver Vein","transitionsToward":[],"transitionsAway":[{"actorID":"684","newActorUses":"-1","targetID":"86775","newActorID":"684","newTargetID":"86767","tool":true},{"actorID":"684","actorUses":"last","targetID":"86775","newActorID":"858","newTargetID":"86767"}],"transitionsTimed":[],"depth":0,"mapChance":0.05,"biomes":[2,3,4]}

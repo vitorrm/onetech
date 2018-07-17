@@ -1,0 +1,1 @@
+{"id":"80941","name":"Fallen Hive","transitionsToward":[{"targetID":"80939","newActorID":"80941","newTargetID":"530","hand":true}],"transitionsAway":[],"transitionsTimed":[{"targetID":"80941","newTargetID":"80943","decay":"1s"}],"depth":1,"techTree":[{"id":"80939","nodes":null}],"recipe":{"steps":[[{"id":"80941","targetID":"80939","hand":true}]],"ingredients":["80939"]}}

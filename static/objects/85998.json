@@ -1,0 +1,1 @@
+{"id":"85998","name":"The Apocalypse -  just coins 3","transitionsToward":[{"targetID":"85997","newActorID":"70002","newTargetID":"85998","hand":true}],"transitionsAway":[{"targetID":"85998","newActorID":"70002","newTargetID":"791","hand":true}],"transitionsTimed":[],"techTree":[{"id":"85997","nodes":[{"id":"85996","nodes":[{"id":"85995","nodes":[]}]}]}]}

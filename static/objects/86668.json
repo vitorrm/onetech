@@ -1,0 +1,1 @@
+{"id":"86668","name":"Spring Apfel Tree","transitionsToward":[{"targetID":"86665","newTargetID":"86668","decay":"2h"},{"targetID":"86670","newTargetID":"86668","decay":"1h"}],"transitionsAway":[],"transitionsTimed":[{"targetID":"86668","newTargetID":"86138","decay":"1h"}],"depth":1,"techTree":[{"decay":"2h"},{"id":"86665","nodes":null}]}

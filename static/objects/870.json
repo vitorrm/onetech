@@ -1,1 +1,1 @@
-{"id":"870","name":"@ Decaying Hat","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"version":79,"clothing":"s","insulation":0}
+{"id":"870","name":"@ Decaying Hat","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"870","newTargetID":"864","decay":"5h"}],"clothing":"s","insulation":0}
