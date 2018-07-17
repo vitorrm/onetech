@@ -2,7 +2,7 @@
 
 > One Hour One Life Crafting Reference
 
-View here: https://onetech.info
+View here: https://vitorrm.github.io/onetech-2hol/
 
 This site is built using the game data directly from [the game data repository](https://github.com/jasonrohrer/OneLifeData7).
 It shows the relationships between items, and lets you explore how things are crafted.
