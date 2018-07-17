@@ -47,7 +47,9 @@ class GameData {
   }
 
   importCategories() {
+	let ignoredFiles = ["nextObjectNumber.txt"];
     this.eachFileInDir("categories", ".txt", (content, _filename) => {
+	  if (ignoredFiles.includes(_filename)) return;
       const category = new Category(content);
       category.addToObjects(this.objects);
       this.categories.push(category);
