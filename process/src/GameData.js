@@ -38,9 +38,10 @@ class GameData {
   }
 
   importObjects() {
+	let ignoredObjectIds = ["86278"]
     this.eachFileInDir("objects", ".txt", (content, _filename) => {
       const object = new GameObject(content);
-      if (object.id) {
+      if (object.id && !ignoredObjectIds.includes(object.id)) {
         this.objects[object.id] = object;
       }
     });
