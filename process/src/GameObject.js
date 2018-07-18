@@ -193,7 +193,9 @@ class GameObject {
   }
 
   isVisible() {
-    return !this.category || this.category.pattern;
+    return !this.category 
+		|| this.category.pattern 
+		|| this.category.objects.some(item => item.name === '@ armor'); // armor category it is also an object
   }
 
   techTreeNodes(depth) {

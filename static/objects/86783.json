@@ -1,1 +1,1 @@
-{"id":"86783","name":"Ancient Stone Wall Corner","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[]}
+{"id":"86783","name":"Ancient Stone Wall Corner","transitionsToward":[{"actorID":"87784","targetID":"32","newTargetID":"86783"},{"targetID":"885","newTargetID":"86783","decay":"8h"}],"transitionsAway":[],"transitionsTimed":[],"depth":2,"techTree":[{"id":"87784","nodes":[{"id":"32","nodes":null}]},{"id":"32","nodes":null}],"recipe":{"steps":[[{"id":"86783","actorID":"87784","targetID":"32"}]],"ingredients":["87784","32"]}}

@@ -16,7 +16,8 @@ class TransitionImporter {
   }
 
   splitCategories(categories) {
-    const nonPatternCategories = categories.filter(c => !c.pattern);
+    let nonPatternCategories = categories.filter(c => !c.pattern);
+	nonPatternCategories = nonPatternCategories.filter(c => !c.objects.some(item => item.name === '@ armor'));
     for (let category of nonPatternCategories) {
       this.splitCategory(category, "actorID", "newActorID");
       this.splitCategory(category, "targetID", "newTargetID");
